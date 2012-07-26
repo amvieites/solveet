@@ -1,5 +1,3 @@
-import scala.runtime.ScalaRunTime._
-
 object Calculator extends App {
 	val factors = scala.collection.mutable.Map[Int, Int]()
 
